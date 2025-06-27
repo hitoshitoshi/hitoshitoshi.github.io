@@ -18,4 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
+Hi, this will be my portfolio where I showcase my projects.
 
+Website is under Construction
+
+Go to my github to view my projects
